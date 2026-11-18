@@ -20,6 +20,10 @@ public class Prueba {
         this.id = id;
     }
     
+    public String getNombre() {
+        return nombre;
+    }
+    
 	public static void main(String[] args) {
         System.out.println("Proyecto Semana Seis en adelante iniciado con éxito.");
    
